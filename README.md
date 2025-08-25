@@ -1,0 +1,4 @@
+# AlexNet-pricatice
+AlexNet入门模型搭建与训练
+使用FashionMNIST下的衣物标签灰度图
+包含了模型搭建与训练和模型测试
